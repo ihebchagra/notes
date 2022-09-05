@@ -22,7 +22,6 @@ obligatoire
 - à l'origine de complications cardiovasculaire
 - l'origine de tous les complications est le tissu adipeux
 
-
 # Physipathologie insulinorésistance du tissu adipeux
 - son hypertrophie induit augmentation sécrétion leptine et autres hormones
 - action locale par libération excessive d'AGL

@@ -75,10 +75,6 @@ prédiabète
 - amaigrissement
 - SPUPD
 
-# Signes cardinaux de diabète:
-- asthénie
-- amaigrissement
-
 # Physiologie des signes cardinaux
 La diminution de l'insuline ou de so action diminue l'utilisation du
 glucose qui cause l'asthénie. Également elle diminue la production du

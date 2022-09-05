@@ -77,7 +77,7 @@ hypophysite auto-immune: infiltration lymphocytaire
 - aspect spongieux
 - compression+++
 
-# Différence entre adénome et hyperplasie 
+# Différence entre adénome et hyperplasie
 L'hyperplasie est l'acroissement en nombre de cellules, l'adénome accroissement en
 taille de cellules. Pas de repoussement des cellules, toutes les cellules sont
 uniforme!!!
