@@ -77,7 +77,7 @@
 ### Particularités conjonctivite mycosiques de l'adulte et de l'enfant
 - exceptionelles
 
-### Particularités conjonctivite mycosiques de l'adulte et de l'enfant
+### Particularités conjonctivite allergiques de l'adulte et de l'enfant
 - notion atopie familale
 - syndrome conjonctival à l'exposition aux pous, pollen...
 - caractère saisonnier
