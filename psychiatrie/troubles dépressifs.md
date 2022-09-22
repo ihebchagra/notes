@@ -79,7 +79,7 @@ Exemple Réponse: épisode dépressif caractérisé avec caractéristiques méla
     - trouble dépressif persistant: plus chronique que le caractérisé
     - autre trouble psychiatrique
 
-### signes faisant penser à la bipolarité devant épisode dépressif
+### signes faisant penser à la bipolarité devant PREMIER épisode dépressif
 - ATCDs familiaux de trouble bipolaire
 - âge de début précoce, adolescence
 - ralentissemen PM jusqu'à stupeur
