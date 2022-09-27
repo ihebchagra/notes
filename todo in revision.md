@@ -1,0 +1,1 @@
+- diapo schizophrénie has a lot of qcms
