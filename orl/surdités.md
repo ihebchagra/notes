@@ -94,7 +94,6 @@
 - par atteinte de l'oreille externe
 - par atteinte de l'oreille moyenne avec intégrité du tympan ou des osselets
 - par atteinte de l'oreille moyenne avec lésion du tympan et/ou osselets
-
 - otite externe bactérienne et mycosique
 - ostéome: ttt chirurgical
 - carcinome du conduit auditif externe: dg par biopsie
