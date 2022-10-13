@@ -197,7 +197,7 @@ clinique est souvent suffisante
 - contagieuse par auto-inoculation
 - papules hémisphériques de couleur de la peau normale, fermes, ombilication cupuliforme en leur centre
 - sexuellement tranmissible au niveau génital
-- traitement par curetage
+- traitement par curetage ou Molutrex
 
 ### particularités verrues vulgaires
 - HPV 2,4
