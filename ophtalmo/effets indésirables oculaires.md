@@ -28,10 +28,6 @@
 ### Particularités pemphigoides oculaires par médicaments conjonctives 
 - dans le cadre d'un syndrome de Lyell ou de stevens johnson
 
-### types effets indésirables conjonctive
-- pigmentation et surcharge
-- toxicité de surface
-
 ### Particularités pigmentation et surcharge médicamenteuse de la cornée
 - amiodarone+++
 - fines ponctuations jaunes brun en aspect de moustaches de chat: n'est pas pathologique, signe d'imprégnation par le cordarone
