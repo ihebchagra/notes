@@ -73,7 +73,7 @@
 - mastoidite sub aigue
 - inadéquation du traitement initial
 
-### complications OMA
+### complications OMA++++
 - mastoidite aigue : perforation tympanique en pie de vache et chute de la paroi postéro-supérieur du CAE très évocateurs
 - paralysie faciale : pronostic excellent
 - labyrinthites : vertife/instabilité/signes neurovégétatifs
@@ -106,4 +106,4 @@
 
 ### prévention OMA
 - vaccination anti-pneumocoques et anti hémophilus encapsulé
-- cure des végétations adénoides s'il existe obstruction nasale associée
+- cure des végétations adénoides s'il existe obstruction nasale associée+++ (adénoidectomie)

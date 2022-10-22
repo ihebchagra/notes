@@ -86,7 +86,7 @@
 - dermatophytose des petit plis (intertrigo inter orteil)
 
 ### diagnostic différentiel dermatophytose des grands plis
-- erythrasma
+- erythrasma : LW rouge corail
 - candidose des grands plis
 - psoriasis des plis
 
