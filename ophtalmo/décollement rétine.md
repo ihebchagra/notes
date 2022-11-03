@@ -17,7 +17,8 @@
 - amputation du champ visuel unilatéral d'installation brutale
 - vision centrale s'effondre quand DR touche la macula
 
-### affections disposants à DR rhegmatogène
+### facteurs disposants à DR rhegmatogène
+- age
 - myopie forte
 - aphaquie
 - traumatisme oculaire
