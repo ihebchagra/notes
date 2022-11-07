@@ -1,5 +1,5 @@
 *.stfolder*
 manki.sh
 banki.sh
-import.txt
+import.csv
 .stignore
