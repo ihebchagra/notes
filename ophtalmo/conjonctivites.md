@@ -1,11 +1,11 @@
 ### syndrome commun des conjonctivites fonctionnel
-    - sensation de gêne à type chaleur
-    - démangeaisons
-    - lourdeur des paipières
-    - pictoements oculaires
-    - impression de corps étranger
-    - photophobie mais DEVANT PHOTOBHPIE SEULE PENSER KÉRATITE+++
-    - acuité visuelle conservée
+- sensation de gêne à type chaleur
+- démangeaisons
+- lourdeur des paipières
+- pictoements oculaires
+- impression de corps étranger
+- photophobie mais DEVANT PHOTOBHPIE SEULE PENSER KÉRATITE+++
+- acuité visuelle conservée
 
 ### syndrome commun des conjonctivites physique
 - oedème des paupières
