@@ -81,7 +81,7 @@
 	- Tocolyse: pendant 48h si CU et absence d'élements en faveur d'une choriomaniotite+++
 	- antibioprophylaxie: Amoxicilline 1gx3/j ou amoxiclav ou C3G ou macrolides pendant 5-7j, si résultat PV adapter
 	- hospitalisation avec surveillance clinique et biologique à domicile en situation stable après 5j
-	- déclenchement en cas de suspiscion de chorioamniotite++
+	- déclenchement en cas de suspiscion de chorioamniotite+++++++++++
 
 ### CAT devant RPM après 37SA
 - hospitalisation systématique
