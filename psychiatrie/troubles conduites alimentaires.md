@@ -130,20 +130,20 @@
 	- grave 8-13/sem
 	- extreme >14
 
- ### évolution boulimie
- - meilleur que anorexie
- - guérison 30-50%
- - rechure rémission 30%
- - chronicisaiton 30%
- 
- ### complications boulimie
- - grignotage
- - dépression atypique
- - schizophrénie
- - iatrogène : ttt antipsychotique
- - organicité : trauma cranien, épilepsie temporatle
- - syndrome de Kleine Levin (adolescent, augementation sommeil, hypersexualité, polyphagie)
- 
+### évolution boulimie
+- meilleur que anorexie
+- guérison 30-50%
+- rechure rémission 30%
+- chronicisaiton 30%
+
+### complications boulimie
+- grignotage
+- dépression atypique
+- schizophrénie
+- iatrogène : ttt antipsychotique
+- organicité : trauma cranien, épilepsie temporatle
+- syndrome de Kleine Levin (adolescent, augementation sommeil, hypersexualité, polyphagie)
+
  ### facteurs étiopathogénique troubles conduites alimentaires
  - biologiques:
 	- dysrégulation axe corticotrope : stress répété
