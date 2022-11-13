@@ -22,32 +22,32 @@ après 120db sensation douloureuse
  - surdité professionnelle
  - traumatisme acoustique
  
- ### particularités fatigue auditive
- - élévation temporaire du seuil d'audition consécutive à l'exposition au bruit
- - disparaissent progressivement lors du repos: rapide si perte<40db, qq jours si >60db
- - premières journées d'exposition: acouphènes, sensation oreille ouatée, lassitude, fatigue intellectuelle
- 
- ### définition surdité professionnele
- - surdité de perception
- - bilatérale
- - symétrique
- - irréversible
- - consécutive exposition prolongée bruit lié au travail
- - exclue traumatisme sonore accidentel
- 
- ### physiopathlogie lésion oreille par bruit
- - mode brutal : son d'intensité forte come explosion, possibilité rupture tympan, luxation osselets, otorragie, lésion cochléaire
- - mode progressive : longue exposition à des niveau élevés, destruction progressives des cellules de l'organe de Corti
- - première cellules atteints sont les cellules spécifiques de la perception de son de fréquence 4000Hz
- - atteinte irréversible
- 
- ### caractéristiques du bruit lésionnel
- - intensité : >70-80db pour bruits aigus, >90db ous les bruits sont nocifs
- - fréquence:
+### particularités fatigue auditive
+- élévation temporaire du seuil d'audition consécutive à l'exposition au bruit
+- disparaissent progressivement lors du repos: rapide si perte<40db, qq jours si >60db
+- premières journées d'exposition: acouphènes, sensation oreille ouatée, lassitude, fatigue intellectuelle
+
+### définition surdité professionnele
+- surdité de perception
+- bilatérale
+- symétrique
+- irréversible
+- consécutive exposition prolongée bruit lié au travail
+- exclue traumatisme sonore accidentel
+
+### physiopathlogie lésion oreille par bruit
+- mode brutal : son d'intensité forte come explosion, possibilité rupture tympan, luxation osselets, otorragie, lésion cochléaire
+- mode progressive : longue exposition à des niveau élevés, destruction progressives des cellules de l'organe de Corti
+- première cellules atteints sont les cellules spécifiques de la perception de son de fréquence 4000Hz
+- atteinte irréversible
+
+### caractéristiques du bruit lésionnel
+- intensité : >70-80db pour bruits aigus, >90db ous les bruits sont nocifs
+- fréquence:
 	- aigus plus nocifs
 	- industriels est un complexe aigu + grave
 	- sensibilité particulière 2000-4000Hz
- - rythme:
+- rythme:
 	- discontinu plus nuisible que continu réglier
 	- car altération du reflexe stapédien
 - durée exposition : quotidienne de qq heures pendant des années
