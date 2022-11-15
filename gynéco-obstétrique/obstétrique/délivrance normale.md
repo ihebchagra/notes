@@ -148,7 +148,7 @@ expulsion hors des voies génitales des annexes foetales. la 3è phase du travai
 	- 15-20 mn passer aux prostaglandines
 	- 15 mn passer à la chirurgie / embolisation radiologique
 
-### particularités utéine
+### particularités inversion utérine
 - exceptionnellle
 - souvent conséquence d'un geste médical intempsif
 - douleur violente abdomino-pelvienne
