@@ -24,3 +24,25 @@
 ### colposcopie
 - colposcopie est faite à col sain
 - si pathologique on fait directement la biopsie
+
+### dépistage cancer du sein
+- <30 : échographie
+- >45 : échographie + mammographie
+- si lésion systématiquement biopsie écho guidée + examen anatomopathologie
+
+### dépistage cancer endomètre
+- contexte
+- échographie
+- hystéroscopie + biopsie
+
+### aspect polype
+aspect ....
+
+### interrogatoire prolapsus génital
+- facteurs de risques:
+	- voie basse
+	- dystocique
+	- age
+	- consitpation chornique toux chronique
+	- collagène
+	....
