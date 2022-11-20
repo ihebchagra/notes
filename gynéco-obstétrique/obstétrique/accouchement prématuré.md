@@ -126,6 +126,7 @@ défaut d'expansion peut provoquer l'expulsion d'un foetus prématuré
 
 ### diagnostic différentiel de la menace d'accouchement prématuré
 - c'est hématome rétroplacentaire (HRP)
+- il faut éliminer ++++
 - métrorragies, douleurs mimant MAP
 - accident grave et indique évacuation immédiate de la grossesse et une réanimation maternelle+++++
 
