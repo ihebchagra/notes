@@ -14,6 +14,7 @@ GROSSESSE EXTRA UTERINE
 - Leiomyoma (fibrome)
 - Malignancy
 - Coagulopathy
+- Ovulations dysfonctionnelles (SPOK...)
 - Endométrial
 - Iatrogène (pillule...)
 - Not yet classified
