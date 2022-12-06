@@ -16,7 +16,7 @@
 - conisation car IA
 - confirmation IA1
 - si marges in sano + pas d'embols:
-	- surveillance
+		- surveillance
 - si marges positives + pas d'embols:
 	- hystérectomie extra fasciale
 	- sinon si ttt conservateur souhaité : reprise conisation ou trachélectomie
@@ -42,7 +42,7 @@
 	- chirurgie première si anapath
 	- d'après anapath on décide sur traitement adjuvent
 
-### indications IB2 	localement évolués >4cm++++++
+### indications IB2 localement évolués >4cm ++++++
 - radio-chimiothérapie concomitante 45Gy, cisplatine 40mg/m2/sem
 - curiethérapie
 - après 6 semaines évaluation clinique, radiologique, histologique
